@@ -100,6 +100,14 @@ A verdadeira evolução acontece quando profissionais passam a enxergar ambiente
 
 É essa visão integrada que permite construir soluções mais sustentáveis ao longo do tempo.
 
+
+<p align="left">
+  🐳 <a href="https://hub.docker.com/r/marcelosystemasweb/systemasweb-ubuntu-22.04-jdk17">
+    Explore uma das imagens públicas que servem como base para os ambientes apresentados ao longo do Programa
+  </a>
+</p>
+
+
 ---
 
 ## Conheça o Programa Arquiteto Java Avançado
